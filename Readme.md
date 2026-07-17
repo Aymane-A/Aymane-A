@@ -48,5 +48,5 @@ An AI-powered quantitative trading platform focused on market analysis, strategy
 ---
 
 ## 📫 Connect with Me
-- GitHub: https://github.com/your-username
-- LinkedIn: Your LinkedIn Profile
+- GitHub: https://github.com/Aymane-A
+- LinkedIn: www.linkedin.com/in/aymane-k-9791a8318
