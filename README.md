@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Aymane 👋
 
-<!--
-**Aymane-A/Aymane-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 AI Student at EST Tetouan (Morocco)
 
-Here are some ideas to get you started:
+💡 Passionate about Artificial Intelligence, Machine Learning, Data Science, Full-Stack Development, and DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently improving my skills in AI, cloud technologies, and modern software development.
+
+🎯 Looking for internship opportunities and exciting AI projects.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- JavaScript
+- SQL
+- HTML & CSS
+
+**Frameworks & Technologies**
+- Node.js
+- Artificial Intelligence
+- Machine Learning
+
+**DevOps & Tools**
+- Git & GitHub
+- Docker
+- Jenkins
+- Ubuntu
+- Linux
+- VS Code
+
+---
+
+## 📌 Projects
+
+### 📄 CVision
+AI-powered CV analyzer that helps evaluate resumes and provide insights.
+
+### 🩺 Medical Chatbots
+Developing intelligent medical chatbot applications powered by AI to assist users with health-related information.
+
+### 📈 AtlasQuant *(Under Development)*
+An AI-powered quantitative trading platform focused on market analysis, strategy development, and intelligent trading tools.
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/your-username
+- LinkedIn: Your LinkedIn Profile
