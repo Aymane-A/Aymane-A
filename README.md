@@ -9,7 +9,6 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Aymane-A&style=for-the-badge&color=blue"/>
 <img src="https://img.shields.io/github/followers/Aymane-A?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/YAymane-A?style=for-the-badge"/>
 </p>
 
 ---
@@ -93,20 +92,20 @@ AI-powered quantitative trading platform focused on market prediction and intell
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aymane-A&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aymane-A&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Aymane-A&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aymane-A&theme=tokyo-night"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aymane-A&theme=tokyonight&margin-w=15"/>
 </p>
 
 ---
